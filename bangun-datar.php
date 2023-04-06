@@ -1,16 +1,3 @@
-
-jadi kalo gak pasti
-jawab aja ragu2, jangan klik hentikan
-baru kalo mau diubah, baru simpan dan hentikan
-
-
-
-ambil
-https://gist.github.com/defrindr/460aa4d69847dd7ed4e6a24d6df84171
-
-
-
-
 <?php
 
 abstract class BangunDatar {
